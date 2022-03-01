@@ -1,6 +1,6 @@
 Hi 👋, I'm Igor Leite
 
-A passionate android developer developer from Brazil
+A passionate android developer from Brazil
 
 - 🔭 I’m currently working on [@Picpay](https://www.picpay.com/site)
 
