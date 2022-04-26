@@ -2,7 +2,7 @@ Hi 👋, I'm Igor Leite
 
 A passionate android developer from Brazil
 
-- 🔭 I’m currently working on [@Picpay](https://www.picpay.com/site)
+- 🔭 I’m currently working on [@Itaú](https://www.itau.com.br/)
 
 - 💬 Ask me about **kotlin, android, mobile apps.**
 
