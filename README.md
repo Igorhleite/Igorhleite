@@ -1,4 +1,4 @@
-Hi 👋, I'm Igor Leite
+Hi 👋, I'm Igor
 
 A passionate android developer from Brazil
 
