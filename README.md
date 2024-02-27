@@ -1,6 +1,6 @@
 Hi 👋, I'm Igor
 
-A passionate android developer from Brazil
+A android developer from Brazil
 
 - 💬 Ask me about **kotlin, android, mobile apps.**
 
