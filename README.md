@@ -1,8 +1,6 @@
 Hi 👋, I'm Igor
 
-A android developer from Brazil
-
-- 💬 Ask me about **kotlin, android, mobile apps.**
+Developer from Brazil
 
 - 📫 How to reach me **ileitelabs@gmail.com**
 
